@@ -1,0 +1,6 @@
+{
+  "name": "CogniPath AI - Personalized Study Companion & Learning Paths",
+  "description": "AI Study Companion with adaptive quizzes, Socratic hints, spaced-repetition flashcards, weak-topic heatmaps, and personalized learning pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
