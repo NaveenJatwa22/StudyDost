@@ -6,15 +6,26 @@
   <p><strong>Learn Smarter. Stay Organized. Grow Better.</strong></p>
   <p>A student-focused learning platform designed to make studying easier, more organized, and effective.</p>
 
+  <h3>Developed during SPHINX '26 – 24-Hour Hackathon</h3>
+  <p>Malaviya National Institute of Technology (MNIT), Jaipur</p>
+
   <img width="100%" alt="StudyDost Preview" src="YOUR_PROJECT_BANNER_URL" />
 
 </div>
 
 ## About the Project
 
-StudyDost is a smart learning companion that helps students organize their studies, follow personalized learning paths, manage study materials, and revise faster.
+StudyDost is a smart learning companion developed during the 24-hour SPHINX '26 hackathon at MNIT Jaipur by Team BUG MAKERS.
 
-The platform brings essential study tools together in one place, helping students stay focused, track their progress, and make learning more efficient.
+It aims to make learning easier and more organized by bringing personalized learning paths, study materials, notes summarization, and progress tracking into one platform.
+
+## Problem Statement
+
+Students often struggle to organize study materials, plan their learning journey, revise lengthy notes, and track their academic progress.
+
+## Our Solution
+
+StudyDost provides a centralized platform that helps students organize their studies, follow structured learning paths, and revise more efficiently.
 
 ## Key Features
 
@@ -25,17 +36,7 @@ The platform brings essential study tools together in one place, helping student
 - **Study Assistant:** Get help with common study-related questions through offline rule-based responses.
 - **Interactive Dashboard:** Access important learning tools through a student-friendly interface.
 
-## How It Works
-
-1. Open the StudyDost dashboard.
-2. Explore your learning tools and study resources.
-3. Follow your learning path.
-4. Upload notes to generate quick revision summaries.
-5. Track your progress and continue learning.
-
 ## Technology Stack
-
-Update this section to reflect the actual dependencies in the project.
 
 - React
 - JavaScript / TypeScript
@@ -96,15 +97,11 @@ No API key is required for the current offline mode.
 - Multilingual learning support.
 - Detailed performance analytics.
 
-## Project Goals
-
-Our goal is to make quality learning tools more accessible to students by combining organization, personalized learning, and quick revision in one platform.
-
 ## Team
 
 **Team BUG MAKERS**
 
-Developed as a student project.
+Developed during **SPHINX '26 – 24-Hour Hackathon** at **MNIT Jaipur**.
 
 ---
 
