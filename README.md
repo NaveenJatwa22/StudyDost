@@ -9,7 +9,7 @@
   <h3>Developed during SPHINX '26 – 24-Hour Hackathon</h3>
   <p>Malaviya National Institute of Technology (MNIT), Jaipur</p>
 
-  <img width="100%" alt="StudyDost Preview" src="blob:https://chatgpt.com/a1090714-7b97-4b8d-b92c-261e5a534bed" />
+  <img width="100%" alt="StudyDost Preview" src="c:\Users\Dell\Downloads\a1090714-7b97-4b8d-b92c-261e5a534bed.png" />
 
 </div>
 
